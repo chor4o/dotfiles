@@ -202,4 +202,4 @@ done
 
 echo "Add my gf templates"
 cp -r $HOME/Tools/MSwellDOTS/config/home/.gf/*.json $HOME/.gf/
-
+mv /root/go/bin/* /usr/bin/
